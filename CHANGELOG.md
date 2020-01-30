@@ -1,3 +1,9 @@
+#### 1.0.6 (2020-01-30)
+
+##### Documentation Changes
+
+* **app:**  Фича 6 ([98f465ef](https://github.com/maks1db/changelog_test/commit/98f465efe5f7fe94416d5c6ff90c3abbb12c7eda))
+
 #### 1.0.5 (2020-01-30)
 
 ##### Tests
