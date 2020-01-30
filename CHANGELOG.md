@@ -1,3 +1,9 @@
+#### 1.0.2 (2020-01-30)
+
+##### New Features
+
+* **app:**  И еще что-то добавил в ридми bug(readme): Описание ci(app): его нет ([a1eb937b](https://github.com/maks1db/changelog_test/commit/a1eb937b0519baad38fbbeaa7c45cf47ae8afdb8))
+
 #### 1.0.1 (2020-01-30)
 
 ##### New Features
