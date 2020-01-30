@@ -1,3 +1,9 @@
+#### 1.0.3 (2020-01-30)
+
+##### New Features
+
+* **app:**  Еще текст [refactor: А он нужен?] ([c6876ab3](https://github.com/maks1db/changelog_test/commit/c6876ab379dceb68e989921762f9dc4da856f318))
+
 #### 1.0.2 (2020-01-30)
 
 ##### New Features
