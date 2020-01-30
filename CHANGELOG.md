@@ -1,3 +1,9 @@
+#### 1.0.4 (2020-01-30)
+
+##### New Features
+
+* **app:**  еще текст [perf, refactor] ([c30dbaa0](https://github.com/maks1db/changelog_test/commit/c30dbaa0b4a3d8dde94155832d2d21452dac4670))
+
 #### 1.0.3 (2020-01-30)
 
 ##### New Features
