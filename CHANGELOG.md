@@ -1,3 +1,9 @@
+#### 1.0.5 (2020-01-30)
+
+##### Tests
+
+* **app:**  фича 5 ([773bf3cd](https://github.com/maks1db/changelog_test/commit/773bf3cd7b31a217188cedb90f6693674af7f6a5))
+
 #### 1.0.4 (2020-01-30)
 
 ##### New Features
